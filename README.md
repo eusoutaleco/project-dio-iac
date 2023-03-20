@@ -4,7 +4,7 @@
 
 Para rodar esse projeto na sua máquina, por favor digite:
 ```
-chmod +x infra.sh
+chmod +x iacl.sh
 sudo ./iacl.sh 
 ```
 
