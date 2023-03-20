@@ -4,9 +4,8 @@
 
 Para rodar esse projeto na sua máquina, por favor digite:
 ```
-chmod
 chmod +x infra.sh
-./iacl.sh 
+sudo ./iacl.sh 
 ```
 
 <p align="center">
